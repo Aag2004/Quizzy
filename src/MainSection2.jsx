@@ -7,7 +7,7 @@ export function Main2(){
                     <h2 className='text-6xl text-yellow-500 font-extrabold font-serif'>90% of Indian Schools</h2>
                 </div>
                 <div className='h-24 w-full flex justify-center gap-12 sm:flex-row flex-col'>
-                    <div className='text-center flex flex-col justify-center items-center'>
+                    <div className='text-center flex flex-col justify-center items-center mt-48'>
                         <img className='h-32' src="./src/assets/hero1.svg" alt="nono" />
                         <h3 className='font-semibold text-xl'>Save teachers 3.5</h3>
                         <p className='font-semibold text-xl'>hrs/week</p>
